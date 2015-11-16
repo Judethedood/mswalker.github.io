@@ -42,6 +42,9 @@ audio:not([controls]) {
 template {
   display: none;
 }
+#text {
+  text-align:center;
+}
 a {
   background-color: transparent;
 }
